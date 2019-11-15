@@ -1,0 +1,5 @@
+## Author: Tntdruid
+## Interface: 80200
+## Title: WhoDropWhat
+## Version: 0.1 Pre Alpha
+## SavedVariables: WhoDropWhatDB
