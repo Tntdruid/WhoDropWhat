@@ -1,5 +1,5 @@
 ## Author: Tntdruid
-## Notes: Adds information about the hovered mob to the tooltip and shows health/mana information in the target frame
+## Notes: Adds information about the hovered mob to the tooltip and shows information in the target frame
 ## Interface: 80200
 ## Title: WhoDropWhat
 ## Version: 0.1 Pre Alpha
